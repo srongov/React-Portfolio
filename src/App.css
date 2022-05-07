@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.about {
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.afooter {
+  background-color: #212529;
+  height: 80px;
+  margin-top:  445px;
+}
+.cfooter {
+  background-color: #212529;
+  height: 80px;
+  margin-top: 360px;
+}
+
+.pfooter {
+  background-color: #212529;
+  height: 80px;
+  margin-top: 650px;
+}
+
+.rfooter {
+  background-color: #212529;
+  height: 80px;
+  margin-top: 763px;
+}
+
+.pcard {
+  margin-left: 500px;
+}
+
+
+
